@@ -1,5 +1,7 @@
 # darkvoid (helix)
 
+![helix darkvoid](preview.png)
+
 ## Configuration
 
 place the `darkvoid.toml` file to your helix themes folder, generally `$XDG_CONFIG/helix/themes`.
